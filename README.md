@@ -1,2 +1,2 @@
 # java
-college assignment
+Basic Java Practice for beginners.
